@@ -1,3 +1,4 @@
+# Generate rating using hash
 puts "enter the cricketers:"
 names = gets.chomp.split(/,/)
 puts names.to_s
