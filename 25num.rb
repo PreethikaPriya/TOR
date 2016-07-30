@@ -1,4 +1,4 @@
-# Program to find total number of positive,negative,even and odd numbers
+# Program to find total number of positive,negative,even and odd numbers.
 
 puts "Please enter 25 numbers: "
 num = Array.new()
