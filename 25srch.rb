@@ -1,3 +1,4 @@
+# count of number to be searched in an array
 puts "enter 25 number"
 num = Array.new()
 i = y = count = 0
