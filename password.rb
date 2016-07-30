@@ -1,3 +1,5 @@
+#Generate password.
+
 puts "Create a password of maximum length 10"
 puts "Enter the total number of digits : "
 tot_num = gets.to_i
